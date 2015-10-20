@@ -1,0 +1,27 @@
+{
+  "name": "dot-filter",
+  "version": "0.1.0",
+  "description": "Filter the fields of an object using the dot notation",
+  "repository": "enrichman/dot-filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Enrico Candino (https://github.com/enrichman)",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "~2.3.3",
+    "should": "~7.1.1"
+  },
+  "keywords": [
+    "dot",
+    "notation",
+    "filter",
+    "field",
+    "fields",
+    "key",
+    "keys",
+    "match",
+    "object"
+  ]
+}
