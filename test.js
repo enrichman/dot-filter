@@ -1,7 +1,7 @@
 /*!
  * dot-filter <https://github.com/enrichman/dot-filter>
  *
- * Copyright (c) 2015 .
+ * Copyright (c) 2015, Enrico Candino.
  * Licensed under the MIT license.
  */
 
