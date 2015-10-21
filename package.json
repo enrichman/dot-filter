@@ -1,6 +1,6 @@
 {
   "name": "dot-filter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Filter the fields of an object using the dot notation",
   "repository": "enrichman/dot-filter",
   "main": "index.js",
